@@ -9,7 +9,7 @@
 				"s3:*"
 			],
 			"Resource": [
-				"arn:aws:s3:::soumyadip-portfolio"
+				"arn:aws:s3:::soumyadip-portfolio/*"
 			]
 		}
 	]
